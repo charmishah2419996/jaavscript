@@ -1,0 +1,53 @@
+*{
+
+margin: 0;
+    padding: 0;
+    
+}
+
+body{
+    background-image: url(../img/girlwithlaptop.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+.form-div .ip{
+    
+   margin-bottom: 30px;
+}
+
+.cen{
+ text-align: left !important;
+}
+
+.form-div{
+    border-radius: 10px;
+    padding: 30px 40px;
+    padding: 30px;
+    background-color: blue;
+    height: 500px;
+    width: 30%;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    text-align: center;
+    font-weight: bold;
+    background-color: white;
+}
+
+.btn{
+        border: none;
+    width: 100%;
+    background-color: blue;
+    padding: 10px 10px;
+    margin-bottom: 40px;
+    color: white;
+}
+
+.txtnm{
+    width: 100%;
+    border-radius: 5px;
+    padding: 10px;
+    border: 1px solid #cfcdcd;
+}
